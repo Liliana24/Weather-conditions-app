@@ -1,0 +1,10 @@
+.section {
+  padding: 8px;
+}
+
+.clearance {
+  margin-bottom: 8px;
+}
+#btnWeather {
+  cursor: pointer;
+}
